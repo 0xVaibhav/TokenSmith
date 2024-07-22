@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Polygon",
+        "logo": "/supported-chains/Polygon.svg"
+    },
+    {
+        "name": "The Graph",
+        "logo": "/supported-chains/Graph.svg"
+    },
+    {
+        "name": "Lighthouse",
+        "logo": "/supported-chains/LightHouse.jpeg"
+    }
+]
